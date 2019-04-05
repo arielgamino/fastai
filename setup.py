@@ -40,7 +40,7 @@ requirements = to_list("""
     regex
     thinc==6.12.0
     cymem==2.0.2
-    torchvision-nightly
+    torchvision
     traitlets
     typing
     pyyaml
